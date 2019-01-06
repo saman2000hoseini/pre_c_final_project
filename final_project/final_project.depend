@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1546292295 source:c:\users\saman\documents\code blocks\final_project\linked_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1546339822 source:c:\users\saman\documents\code blocks\final_project\loadchoices.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1546341446 source:c:\users\saman\documents\code blocks\final_project\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+

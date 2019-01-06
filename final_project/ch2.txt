@@ -1,0 +1,9 @@
+test test test win or loose?
+win
+50
+50
+50
+loose
+-50
+-50
+-50

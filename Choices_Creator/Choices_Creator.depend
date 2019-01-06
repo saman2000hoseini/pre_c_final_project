@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546303162 source:c:\users\saman\documents\code blocks\choices_creator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
